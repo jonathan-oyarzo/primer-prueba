@@ -1,0 +1,37 @@
+
+
+body {
+    font-family: 'Open Sans', sans-serif;
+
+    font-weight: 400;
+    
+}
+
+col {
+ max-width: 100mm;
+  }
+h1{
+    text-align: center;
+}
+
+.trabajos{
+    text-align: center;
+}
+
+.toto{
+    width: 40px;
+    padding-left: 25%; 
+}
+#kkk{
+    text-align: center; 
+    padding: 1cm; 
+}
+#lll{
+    padding: 20mm;
+}
+#mi{
+    padding: 20mm;
+}
+p ,h3,h5{
+    text-align: center;
+}
